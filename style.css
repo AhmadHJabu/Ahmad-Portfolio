@@ -607,7 +607,7 @@ ul {
   margin-top: 100px; }
   .welcome-text h2 {
     font-size: 80px;
-    color: #232323;
+    color: #f1f1f1;
     display: block;
     text-transform: capitalize;
     margin-left: -9px;
@@ -627,7 +627,7 @@ ul {
         margin-bottom: 15px; } }
   .welcome-text h5 {
     font-size: 18px;
-    color: #101010;
+    color: #f1f1f1;
     margin-bottom: 50px;
     text-transform: uppercase;
     letter-spacing: 2px; }
